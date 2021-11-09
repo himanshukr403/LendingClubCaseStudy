@@ -1,4 +1,4 @@
-**Assignment Brief:**<br><br><br>
+**Assignment Brief:**  <br>
 You work for a consumer finance company Lending Club which specialises in lending various types of loans to urban customers. This company is the largest online loan marketplace, facilitating personal loans and business loans. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Whenever a customer applies for a loan, there are two types of decisions that could be taken by the company:<br><br>
 
 1. **Loan accepted:**  <br>
